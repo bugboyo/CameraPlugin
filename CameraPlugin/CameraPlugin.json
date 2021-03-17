@@ -6,5 +6,4 @@
   "Description": "Set camera values while out of combat.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/CameraPlugin"
-  "DalamudApiLevel": 2
 }
