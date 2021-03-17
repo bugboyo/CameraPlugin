@@ -6,7 +6,7 @@
     <Authors>daemitus</Authors>
     <Company>-</Company>
     <Description></Description>
-    <PackageProjectUrl>https://github.com/daemitus/CameraPlugin</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/bugboyo/CameraPlugin</PackageProjectUrl>
   </PropertyGroup>
   <PropertyGroup>
     <OutputType>Library</OutputType>
