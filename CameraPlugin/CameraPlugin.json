@@ -5,5 +5,5 @@
   "AssemblyVersion": "1.0.0.0",
   "Description": "Set camera values while out of combat.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/daemitus/CameraPlugin"
+  "RepoUrl": "https://github.com/bugboyo/CameraPlugin"
 }
