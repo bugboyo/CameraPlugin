@@ -2,9 +2,9 @@
   "Author": "daemitus",
   "Name": "CameraMan",
   "InternalName": "CameraPlugin",
-  "AssemblyVersion": "1.0.0.0",
   "Description": "Set camera values while out of combat.",
+  "RepoUrl": "https://github.com/bugboyo/CameraPlugin"
+  "AssemblyVersion": "1.0.0.0",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/bugboyo/CameraPlugin",
   "DalamudApiLevel": 2,
 }
